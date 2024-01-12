@@ -2,3 +2,4 @@ venv/
 # Jupyter Notebook
 .ipynb_checkpoints
 .ipynb
+laptop-price-predictor-notebook.ipynb
